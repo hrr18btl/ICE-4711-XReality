@@ -1,0 +1,11 @@
+Model Information:
+* title:	Universal Carrier
+* source:	https://sketchfab.com/3d-models/universal-carrier-7ae49e2042f447dc983a567b85423b8e
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Universal Carrier" (https://sketchfab.com/3d-models/universal-carrier-7ae49e2042f447dc983a567b85423b8e) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

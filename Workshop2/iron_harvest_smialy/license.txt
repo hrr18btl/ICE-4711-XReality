@@ -1,0 +1,11 @@
+Model Information:
+* title:	Iron Harvest Smialy
+* source:	https://sketchfab.com/3d-models/iron-harvest-smialy-26c58671b51d4599b63162a8d4564894
+* author:	larrynguyen (https://sketchfab.com/larrynguyen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Iron Harvest Smialy" (https://sketchfab.com/3d-models/iron-harvest-smialy-26c58671b51d4599b63162a8d4564894) by larrynguyen (https://sketchfab.com/larrynguyen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
